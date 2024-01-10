@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\bin\Debug\net8.0\04.VacationBooksList.exe
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\bin\Debug\net8.0\04.VacationBooksList.deps.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\bin\Debug\net8.0\04.VacationBooksList.runtimeconfig.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\bin\Debug\net8.0\04.VacationBooksList.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\bin\Debug\net8.0\04.VacationBooksList.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\refint\04.VacationBooksList.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\04.VacationBooksList.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\04.VacationBooksList\obj\Debug\net8.0\ref\04.VacationBooksList.dll

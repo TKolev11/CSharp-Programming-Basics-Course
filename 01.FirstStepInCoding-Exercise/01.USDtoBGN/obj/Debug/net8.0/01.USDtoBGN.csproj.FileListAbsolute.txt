@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\bin\Debug\net8.0\01.USDtoBGN.exe
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\bin\Debug\net8.0\01.USDtoBGN.deps.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\bin\Debug\net8.0\01.USDtoBGN.runtimeconfig.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\bin\Debug\net8.0\01.USDtoBGN.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\bin\Debug\net8.0\01.USDtoBGN.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\refint\01.USDtoBGN.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\01.USDtoBGN.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\01.USDtoBGN\obj\Debug\net8.0\ref\01.USDtoBGN.dll

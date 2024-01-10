@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net8.0\02.RadianstoDegrees.exe
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net8.0\02.RadianstoDegrees.deps.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net8.0\02.RadianstoDegrees.runtimeconfig.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net8.0\02.RadianstoDegrees.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\bin\Debug\net8.0\02.RadianstoDegrees.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\refint\02.RadianstoDegrees.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\02.RadianstoDegrees.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\02.RadianstoDegrees\obj\Debug\net8.0\ref\02.RadianstoDegrees.dll

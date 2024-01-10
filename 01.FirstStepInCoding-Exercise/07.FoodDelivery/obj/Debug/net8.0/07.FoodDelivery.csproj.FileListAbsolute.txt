@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.exe
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.deps.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.runtimeconfig.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\bin\Debug\net8.0\07.FoodDelivery.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\refint\07.FoodDelivery.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\07.FoodDelivery.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\07.FoodDelivery\obj\Debug\net8.0\ref\07.FoodDelivery.dll

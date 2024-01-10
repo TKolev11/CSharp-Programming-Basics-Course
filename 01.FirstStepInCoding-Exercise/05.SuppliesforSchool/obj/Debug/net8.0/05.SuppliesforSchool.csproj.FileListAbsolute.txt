@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net8.0\05.SuppliesforSchool.exe
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net8.0\05.SuppliesforSchool.deps.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net8.0\05.SuppliesforSchool.runtimeconfig.json
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net8.0\05.SuppliesforSchool.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\bin\Debug\net8.0\05.SuppliesforSchool.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\refint\05.SuppliesforSchool.dll
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.pdb
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\05.SuppliesforSchool.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.FirstStepInCoding-Exercise\05.SuppliesforSchool\obj\Debug\net8.0\ref\05.SuppliesforSchool.dll

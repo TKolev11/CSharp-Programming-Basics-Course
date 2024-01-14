@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.exe
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.deps.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.runtimeconfig.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\bin\Debug\net8.0\02.GreaterNumber.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.AssemblyInfo.cs
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\refint\02.GreaterNumber.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\02.GreaterNumber.genruntimeconfig.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\02.GreaterNumber\obj\Debug\net8.0\ref\02.GreaterNumber.dll

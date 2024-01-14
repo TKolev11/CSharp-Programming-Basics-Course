@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.exe
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.deps.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.runtimeconfig.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\bin\Debug\net8.0\06.SpeedInfo.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.AssemblyInfo.cs
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\refint\06.SpeedInfo.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\06.SpeedInfo.genruntimeconfig.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Lab\06.SpeedInfo\obj\Debug\net8.0\ref\06.SpeedInfo.dll

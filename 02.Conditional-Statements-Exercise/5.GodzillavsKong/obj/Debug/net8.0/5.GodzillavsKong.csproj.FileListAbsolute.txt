@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\bin\Debug\net8.0\5.GodzillavsKong.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\bin\Debug\net8.0\5.GodzillavsKong.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\bin\Debug\net8.0\5.GodzillavsKong.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\bin\Debug\net8.0\5.GodzillavsKong.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\bin\Debug\net8.0\5.GodzillavsKong.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\refint\5.GodzillavsKong.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\5.GodzillavsKong.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\5.GodzillavsKong\obj\Debug\net8.0\ref\5.GodzillavsKong.dll

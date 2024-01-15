@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\bin\Debug\net8.0\02.BonusScore.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\bin\Debug\net8.0\02.BonusScore.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\bin\Debug\net8.0\02.BonusScore.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\bin\Debug\net8.0\02.BonusScore.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\bin\Debug\net8.0\02.BonusScore.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\refint\02.BonusScore.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\02.BonusScore.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\02.BonusScore\obj\Debug\net8.0\ref\02.BonusScore.dll

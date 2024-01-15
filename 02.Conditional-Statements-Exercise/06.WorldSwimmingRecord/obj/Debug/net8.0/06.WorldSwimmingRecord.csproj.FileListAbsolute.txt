@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\bin\Debug\net8.0\06.WorldSwimmingRecord.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\refint\06.WorldSwimmingRecord.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\06.WorldSwimmingRecord\obj\Debug\net8.0\ref\06.WorldSwimmingRecord.dll

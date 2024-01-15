@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.exe
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.deps.json
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.runtimeconfig.json
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.dll
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\bin\Debug\net8.0\01.SumSeconds.pdb
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.AssemblyInfo.cs
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.dll
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\refint\01.SumSeconds.dll
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.pdb
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\01.SumSeconds.genruntimeconfig.cache
+C:\Users\tekol\source\repos\01.SumSeconds\01.SumSeconds\obj\Debug\net8.0\ref\01.SumSeconds.dll

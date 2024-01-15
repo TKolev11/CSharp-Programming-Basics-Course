@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\bin\Debug\net8.0\08.LunchBreak.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\bin\Debug\net8.0\08.LunchBreak.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\bin\Debug\net8.0\08.LunchBreak.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\bin\Debug\net8.0\08.LunchBreak.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\bin\Debug\net8.0\08.LunchBreak.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\refint\08.LunchBreak.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\08.LunchBreak.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\02.Conditional-Statements-Exercise\08.LunchBreak\obj\Debug\net8.0\ref\08.LunchBreak.dll

@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\bin\Debug\net8.0\03.Time+15 Minutes.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\bin\Debug\net8.0\03.Time+15 Minutes.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\bin\Debug\net8.0\03.Time+15 Minutes.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\bin\Debug\net8.0\03.Time+15 Minutes.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\bin\Debug\net8.0\03.Time+15 Minutes.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\refint\03.Time+15 Minutes.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\03.Time+15 Minutes.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\01.SumSeconds\03.Time+15 Minutes\obj\Debug\net8.0\ref\03.Time+15 Minutes.dll

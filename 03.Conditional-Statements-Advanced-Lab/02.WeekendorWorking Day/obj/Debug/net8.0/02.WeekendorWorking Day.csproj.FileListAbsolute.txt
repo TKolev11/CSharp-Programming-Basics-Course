@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\bin\Debug\net8.0\02.WeekendorWorking Day.exe
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\bin\Debug\net8.0\02.WeekendorWorking Day.deps.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\bin\Debug\net8.0\02.WeekendorWorking Day.runtimeconfig.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\bin\Debug\net8.0\02.WeekendorWorking Day.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\bin\Debug\net8.0\02.WeekendorWorking Day.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.AssemblyInfo.cs
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\refint\02.WeekendorWorking Day.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\02.WeekendorWorking Day.genruntimeconfig.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\02.WeekendorWorking Day\obj\Debug\net8.0\ref\02.WeekendorWorking Day.dll

@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.AssemblyInfo.cs
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\bin\Debug\net8.0\01.DayofWeek.exe
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\bin\Debug\net8.0\01.DayofWeek.deps.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\bin\Debug\net8.0\01.DayofWeek.runtimeconfig.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\bin\Debug\net8.0\01.DayofWeek.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\bin\Debug\net8.0\01.DayofWeek.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\refint\01.DayofWeek.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\01.DayofWeek.genruntimeconfig.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\01.DayofWeek\obj\Debug\net8.0\ref\01.DayofWeek.dll

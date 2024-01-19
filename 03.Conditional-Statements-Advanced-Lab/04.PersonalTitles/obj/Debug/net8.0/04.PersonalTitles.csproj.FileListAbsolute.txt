@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.AssemblyInfo.cs
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\bin\Debug\net8.0\04.PersonalTitles.exe
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\bin\Debug\net8.0\04.PersonalTitles.deps.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\bin\Debug\net8.0\04.PersonalTitles.runtimeconfig.json
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\bin\Debug\net8.0\04.PersonalTitles.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\bin\Debug\net8.0\04.PersonalTitles.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\refint\04.PersonalTitles.dll
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.pdb
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\04.PersonalTitles.genruntimeconfig.cache
+C:\Users\tekol\source\repos\02.Conditional-Statements-Exercise\04.PersonalTitles\obj\Debug\net8.0\ref\04.PersonalTitles.dll

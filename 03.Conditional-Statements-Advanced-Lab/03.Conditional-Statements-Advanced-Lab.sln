@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayofWeek", "01.DayofWeek\01.DayofWeek.csproj", "{584F3607-F674-4567-A264-AEBB0F7811B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayofWeek", "01.DayofWeek\01.DayofWeek.csproj", "{584F3607-F674-4567-A264-AEBB0F7811B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WeekendorWorking Day", "02.WeekendorWorking Day\02.WeekendorWorking Day.csproj", "{39B81203-5C8E-46A1-AF8B-CB7ED532D957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.WeekendorWorking Day", "02.WeekendorWorking Day\02.WeekendorWorking Day.csproj", "{39B81203-5C8E-46A1-AF8B-CB7ED532D957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.AnimalType", "03.AnimalType\03.AnimalType.csproj", "{26FE2EA9-45E7-4D71-B9E0-BF69509D0C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.AnimalType", "03.AnimalType\03.AnimalType.csproj", "{26FE2EA9-45E7-4D71-B9E0-BF69509D0C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PersonalTitles", "04.PersonalTitles\04.PersonalTitles.csproj", "{DAE5CEF7-EA54-4C6D-9434-2943C6106304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PersonalTitles", "04.PersonalTitles\04.PersonalTitles.csproj", "{DAE5CEF7-EA54-4C6D-9434-2943C6106304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SmallShop", "05.SmallShop\05.SmallShop.csproj", "{08B809B2-C1AB-4E80-B9DD-DE65E28CE6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberinRange", "06.NumberinRange\06.NumberinRange.csproj", "{E50CB2A7-1262-4641-9EF9-87483424BBA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{DAE5CEF7-EA54-4C6D-9434-2943C6106304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAE5CEF7-EA54-4C6D-9434-2943C6106304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAE5CEF7-EA54-4C6D-9434-2943C6106304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B809B2-C1AB-4E80-B9DD-DE65E28CE6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B809B2-C1AB-4E80-B9DD-DE65E28CE6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B809B2-C1AB-4E80-B9DD-DE65E28CE6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B809B2-C1AB-4E80-B9DD-DE65E28CE6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50CB2A7-1262-4641-9EF9-87483424BBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50CB2A7-1262-4641-9EF9-87483424BBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50CB2A7-1262-4641-9EF9-87483424BBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50CB2A7-1262-4641-9EF9-87483424BBA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

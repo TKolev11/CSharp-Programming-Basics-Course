@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\bin\Debug\net8.0\05.SmallShop.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\refint\05.SmallShop.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\05.SmallShop.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\05.SmallShop\obj\Debug\net8.0\ref\05.SmallShop.dll

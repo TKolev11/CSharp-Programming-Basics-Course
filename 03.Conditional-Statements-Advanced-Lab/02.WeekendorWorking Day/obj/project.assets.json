@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tekol\\source\\repos\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\02.WeekendorWorking Day.csproj",
+      "projectUniqueName": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\02.WeekendorWorking Day.csproj",
       "projectName": "02.WeekendorWorking Day",
-      "projectPath": "C:\\Users\\tekol\\source\\repos\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\02.WeekendorWorking Day.csproj",
+      "projectPath": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\02.WeekendorWorking Day.csproj",
       "packagesPath": "C:\\Users\\tekol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tekol\\source\\repos\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\obj\\",
+      "outputPath": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\03.Conditional-Statements-Advanced-Lab\\02.WeekendorWorking Day\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

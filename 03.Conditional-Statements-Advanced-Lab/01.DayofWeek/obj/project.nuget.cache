@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txm7oTOWMNEFrix3YKpKUe8zKQ0rdXpnR81Ga8s5yA14gTo/ECN729qa3URJCkGY9dDdlqX7/M+WaQwWAU6IdQ==",
+  "dgSpecHash": "5j1oItiJ0JCvuNW50sbcBI96YyfHURSQtOhN0Y5udPtCZYf6KWw4YJUbRmCTYEV6UtmY3jBDfh+bp71wcgZGwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tekol\\source\\repos\\03.Conditional-Statements-Advanced-Lab\\01.DayofWeek\\01.DayofWeek.csproj",
+  "projectFilePath": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\03.Conditional-Statements-Advanced-Lab\\01.DayofWeek\\01.DayofWeek.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

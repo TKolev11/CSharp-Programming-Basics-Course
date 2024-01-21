@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\bin\Debug\net8.0\08.CinemaTicket.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\bin\Debug\net8.0\08.CinemaTicket.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\bin\Debug\net8.0\08.CinemaTicket.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\bin\Debug\net8.0\08.CinemaTicket.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\bin\Debug\net8.0\08.CinemaTicket.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\refint\08.CinemaTicket.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\08.CinemaTicket.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Lab\08.CinemaTicket\obj\Debug\net8.0\ref\08.CinemaTicket.dll

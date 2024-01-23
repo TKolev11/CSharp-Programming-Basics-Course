@@ -1,0 +1,14 @@
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.exe
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.deps.json
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.runtimeconfig.json
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.dll
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\bin\Debug\net8.0\03.NewHouse.pdb
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.AssemblyInfoInputs.cache
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.AssemblyInfo.cs
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.dll
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\refint\03.NewHouse.dll
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.pdb
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\03.NewHouse.genruntimeconfig.cache
+C:\Users\Teodor\source\repos\03.Conditional-Statements-Advanced-Exercise\03.NewHouse\obj\Debug\net8.0\ref\03.NewHouse.dll

@@ -1,0 +1,14 @@
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\bin\Debug\net8.0\01.Cinema.exe
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\bin\Debug\net8.0\01.Cinema.deps.json
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\bin\Debug\net8.0\01.Cinema.runtimeconfig.json
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\bin\Debug\net8.0\01.Cinema.dll
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\bin\Debug\net8.0\01.Cinema.pdb
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.AssemblyInfoInputs.cache
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.AssemblyInfo.cs
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.dll
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\refint\01.Cinema.dll
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.pdb
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\01.Cinema.genruntimeconfig.cache
+C:\Users\Teodor\source\repos\01.Cinema\01.Cinema\obj\Debug\net8.0\ref\01.Cinema.dll

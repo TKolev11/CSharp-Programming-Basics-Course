@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\bin\Debug\net8.0\04.FishingBoat.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\bin\Debug\net8.0\04.FishingBoat.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\bin\Debug\net8.0\04.FishingBoat.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\bin\Debug\net8.0\04.FishingBoat.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\bin\Debug\net8.0\04.FishingBoat.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\refint\04.FishingBoat.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\04.FishingBoat.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\04.FishingBoat\obj\Debug\net8.0\ref\04.FishingBoat.dll

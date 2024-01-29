@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\bin\Debug\net8.0\07.HotelRoom.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\refint\07.HotelRoom.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\07.HotelRoom.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\07.HotelRoom\obj\Debug\net8.0\ref\07.HotelRoom.dll

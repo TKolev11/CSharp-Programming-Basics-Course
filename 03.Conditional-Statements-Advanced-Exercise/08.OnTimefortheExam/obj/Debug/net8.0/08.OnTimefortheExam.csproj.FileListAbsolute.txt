@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\bin\Debug\net8.0\08.OnTimefortheExam.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\bin\Debug\net8.0\08.OnTimefortheExam.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\bin\Debug\net8.0\08.OnTimefortheExam.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\bin\Debug\net8.0\08.OnTimefortheExam.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\bin\Debug\net8.0\08.OnTimefortheExam.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\refint\08.OnTimefortheExam.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\08.OnTimefortheExam.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\08.OnTimefortheExam\obj\Debug\net8.0\ref\08.OnTimefortheExam.dll

@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net8.0\06.OperationsBetweenNumbers.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net8.0\06.OperationsBetweenNumbers.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net8.0\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net8.0\06.OperationsBetweenNumbers.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\net8.0\06.OperationsBetweenNumbers.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\refint\06.OperationsBetweenNumbers.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\06.OperationsBetweenNumbers.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\03.Conditional-Statements-Advanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\net8.0\ref\06.OperationsBetweenNumbers.dll

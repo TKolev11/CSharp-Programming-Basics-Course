@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net8.0\04.EvenPowersof2.exe
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net8.0\04.EvenPowersof2.deps.json
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net8.0\04.EvenPowersof2.runtimeconfig.json
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net8.0\04.EvenPowersof2.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\bin\Debug\net8.0\04.EvenPowersof2.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.AssemblyInfo.cs
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\refint\04.EvenPowersof2.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\04.EvenPowersof2.genruntimeconfig.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\04.EvenPowersof2\obj\Debug\net8.0\ref\04.EvenPowersof2.dll

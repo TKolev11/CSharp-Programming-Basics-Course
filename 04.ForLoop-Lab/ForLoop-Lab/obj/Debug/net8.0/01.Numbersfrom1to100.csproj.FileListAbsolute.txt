@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\bin\Debug\net8.0\01.Numbersfrom1to100.exe
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\bin\Debug\net8.0\01.Numbersfrom1to100.deps.json
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\bin\Debug\net8.0\01.Numbersfrom1to100.runtimeconfig.json
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\bin\Debug\net8.0\01.Numbersfrom1to100.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\bin\Debug\net8.0\01.Numbersfrom1to100.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.AssemblyInfo.cs
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\refint\01.Numbersfrom1to100.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\01.Numbersfrom1to100.genruntimeconfig.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\ForLoop-Lab\obj\Debug\net8.0\ref\01.Numbersfrom1to100.dll

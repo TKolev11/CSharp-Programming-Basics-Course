@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\bin\Debug\net8.0\09.LeftandRight Sum.exe
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\bin\Debug\net8.0\09.LeftandRight Sum.deps.json
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\bin\Debug\net8.0\09.LeftandRight Sum.runtimeconfig.json
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\bin\Debug\net8.0\09.LeftandRight Sum.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\bin\Debug\net8.0\09.LeftandRight Sum.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.AssemblyInfo.cs
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\refint\09.LeftandRight Sum.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\09.LeftandRight Sum.genruntimeconfig.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\09.LeftandRight Sum\obj\Debug\net8.0\ref\09.LeftandRight Sum.dll

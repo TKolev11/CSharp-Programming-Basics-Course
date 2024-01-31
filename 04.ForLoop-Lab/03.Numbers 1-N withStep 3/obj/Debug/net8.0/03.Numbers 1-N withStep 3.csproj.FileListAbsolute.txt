@@ -1,0 +1,14 @@
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\bin\Debug\net8.0\03.Numbers 1-N withStep 3.exe
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\bin\Debug\net8.0\03.Numbers 1-N withStep 3.deps.json
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\bin\Debug\net8.0\03.Numbers 1-N withStep 3.runtimeconfig.json
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\bin\Debug\net8.0\03.Numbers 1-N withStep 3.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\bin\Debug\net8.0\03.Numbers 1-N withStep 3.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.AssemblyInfo.cs
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\refint\03.Numbers 1-N withStep 3.dll
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.pdb
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\03.Numbers 1-N withStep 3.genruntimeconfig.cache
+C:\Users\tekol\source\repos\ForLoop-Lab\03.Numbers 1-N withStep 3\obj\Debug\net8.0\ref\03.Numbers 1-N withStep 3.dll

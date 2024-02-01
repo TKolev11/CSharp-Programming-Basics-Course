@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\bin\Debug\net8.0\06.Oscars.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\bin\Debug\net8.0\06.Oscars.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\bin\Debug\net8.0\06.Oscars.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\bin\Debug\net8.0\06.Oscars.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\bin\Debug\net8.0\06.Oscars.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\refint\06.Oscars.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\06.Oscars.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\06.Oscars\obj\Debug\net8.0\ref\06.Oscars.dll

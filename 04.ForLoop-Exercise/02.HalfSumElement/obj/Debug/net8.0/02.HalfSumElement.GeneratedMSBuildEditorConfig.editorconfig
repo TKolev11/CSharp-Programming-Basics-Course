@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _02.HalfSumElement
-build_property.ProjectDir = C:\Users\tekol\source\repos\01.Numbers Endingin7\02.HalfSumElement\
+build_property.ProjectDir = C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\02.HalfSumElement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

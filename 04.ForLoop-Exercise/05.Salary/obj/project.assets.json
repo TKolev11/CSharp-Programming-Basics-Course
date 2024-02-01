@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tekol\\source\\repos\\01.Numbers Endingin7\\05.Salary\\05.Salary.csproj",
+      "projectUniqueName": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\04.ForLoop-Exercise\\05.Salary\\05.Salary.csproj",
       "projectName": "05.Salary",
-      "projectPath": "C:\\Users\\tekol\\source\\repos\\01.Numbers Endingin7\\05.Salary\\05.Salary.csproj",
+      "projectPath": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\04.ForLoop-Exercise\\05.Salary\\05.Salary.csproj",
       "packagesPath": "C:\\Users\\tekol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tekol\\source\\repos\\01.Numbers Endingin7\\05.Salary\\obj\\",
+      "outputPath": "C:\\Users\\tekol\\source\\repos\\CSharp-Programming-Basics-Course\\04.ForLoop-Exercise\\05.Salary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

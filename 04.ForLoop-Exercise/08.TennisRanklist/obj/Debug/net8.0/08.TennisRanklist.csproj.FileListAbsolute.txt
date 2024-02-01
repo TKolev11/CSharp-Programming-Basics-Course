@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\bin\Debug\net8.0\08.TennisRanklist.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\refint\08.TennisRanklist.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\08.TennisRanklist.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\04.ForLoop-Exercise\08.TennisRanklist\obj\Debug\net8.0\ref\08.TennisRanklist.dll

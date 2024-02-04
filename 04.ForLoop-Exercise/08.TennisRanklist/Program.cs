@@ -4,42 +4,44 @@
     {
         static void Main(string[] args)
         {
-            int nTournaments = int.Parse(Console.ReadLine());
-            int startPoints = int.Parse(Console.ReadLine());
-            string milestoneReached = "";
-            int currentPoints = startPoints;
+            int tournamentsCount = int.Parse(Console.ReadLine());
+            int initialPoints = int.Parse(Console.ReadLine());
             int wPoints = 0;
             int fPoints = 0;
             int sfPoints = 0;
-            double tournamentsWon = 0;
 
+            int totalPoints = initialPoints;
+            int winsCount = 0;
 
-            for (int i = 0; i < nTournaments; i++)
+            for (int i = 0; i < tournamentsCount; i++)
             {
-                milestoneReached = Console.ReadLine();
-                if (milestoneReached == "W")
+                string result = Console.ReadLine();
+
+                switch (result)
                 {
-                    currentPoints += 2000;             
-                    wPoints += 2000;
-                    tournamentsWon++;
+                    case "W":
+                        totalPoints += 2000;
+                        wPoints += 2000;
+                        winsCount++;
+                        break;
+                    case "F":
+                        totalPoints += 1200;
+                        fPoints += 1200;
+                        break;
+                    case "SF":                     
+                        totalPoints += 720;
+                        sfPoints += 720;
+                        break;
                 }
-                else if (milestoneReached == "F")
-                {
-                    currentPoints += 1200;                   
-                    fPoints += 1200;     
-                }
-                else if (milestoneReached == "SF")
-                {
-                    currentPoints += 720;
-                    sfPoints += 720;              
-                }
-            }         
-            int avgWonTournaments = (wPoints + fPoints + sfPoints) / nTournaments;           
-            double percentageWonTournaments = (tournamentsWon / nTournaments) * 100;
-            Console.WriteLine($"Final points: {currentPoints}");
-            Console.WriteLine($"Average points: {avgWonTournaments}");
-            Console.WriteLine();
-            Console.WriteLine($"{percentageWonTournaments:F2}%");
+            }
+
+            double averagePoints = Math.Floor(((double)sfPoints + (double)wPoints + (double)fPoints) / tournamentsCount);
+            double winPercentage = (double)winsCount / tournamentsCount * 100;
+
+            Console.WriteLine($"Final points: {totalPoints}");
+            Console.WriteLine($"Average points: {averagePoints}");
+            Console.WriteLine($"{winPercentage:F2}%");
         }
+   
     }
 }

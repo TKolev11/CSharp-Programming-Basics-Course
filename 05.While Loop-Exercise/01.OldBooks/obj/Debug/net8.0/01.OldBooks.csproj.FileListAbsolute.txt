@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\bin\Debug\net8.0\01.OldBooks.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\bin\Debug\net8.0\01.OldBooks.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\bin\Debug\net8.0\01.OldBooks.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\bin\Debug\net8.0\01.OldBooks.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\bin\Debug\net8.0\01.OldBooks.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\refint\01.OldBooks.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\01.OldBooks.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\01.OldBooks\obj\Debug\net8.0\ref\01.OldBooks.dll

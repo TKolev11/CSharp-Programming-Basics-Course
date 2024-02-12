@@ -1,0 +1,15 @@
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.exe
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.deps.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.runtimeconfig.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\bin\Debug\net8.0\03.Vacation.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.AssemblyInfo.cs
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.sourcelink.json
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\refint\03.Vacation.dll
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.pdb
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\03.Vacation.genruntimeconfig.cache
+C:\Users\tekol\source\repos\CSharp-Programming-Basics-Course\05.While Loop-Exercise\03.Vacation\obj\Debug\net8.0\ref\03.Vacation.dll
